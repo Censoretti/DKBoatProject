@@ -1,0 +1,27 @@
+{
+  "name": "dkboatproject",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Censoretti/DKBoatProject.git"
+  },
+  "author": "Censoretti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Censoretti/DKBoatProject/issues"
+  },
+  "homepage": "https://github.com/Censoretti/DKBoatProject#readme",
+  "devDependencies": {
+    "eslint": "^8.43.0",
+    "nodemon": "^1.14.9"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
